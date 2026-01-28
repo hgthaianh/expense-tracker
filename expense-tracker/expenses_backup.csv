@@ -1,0 +1,5 @@
+id,date,category,amount,description,created_at
+dc3bf200,2026-01-28,food,50.0,Lunch at restaurant,2026-01-28T13:06:28.786349
+e5eb2d97,2026-01-28,rent,1500.0,Monthly rent payment,2026-01-28T13:06:29.095654
+d580a1ad,2026-01-28,transport,25.5,Grab ride to work,2026-01-28T13:06:29.433224
+32fefb7e,2026-01-28,food,12.99,Coffee and snacks,2026-01-28T13:06:29.759569
